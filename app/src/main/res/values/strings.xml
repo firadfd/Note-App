@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Plan2Do</string>
+    <string name="by_firad_fd">By Firad Fd</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle…</string>
+    <string name="note">Note…</string>
+    <string name="alert_note">Are you sure want to delete this note</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>
