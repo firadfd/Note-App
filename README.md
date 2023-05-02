@@ -1,8 +1,7 @@
 # Plan2Do
 
-Plan2Do is a  simple notepad app, built with Kotlin using Room DB,
-LiveData, and following Model-View-ViewModel (MVVM) with clean architecture 
-& it’s designed using jetpack compose.
+Plan2Do is a  simple notepad app, built with Kotlin using Room DB,Hilt,Fragments
+LiveData, and following Model-View-ViewModel (MVVM).
 ## Features
 
 - Light/dark mode toggle
